@@ -6,3 +6,8 @@
 This repository contains the materials and resources for the Rust Programming course
 
 The repository will be available until June 16, 2026
+
+### May 17
+
+- Added the Unsafe Rust materials
+- email: rod@exgnosis.ca
